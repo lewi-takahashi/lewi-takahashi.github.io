@@ -1,4 +1,4 @@
 ---
 title: Writing
-description: Jonathan Buchholz's writing.
+description: Noah Lewis's writing.
 ---
