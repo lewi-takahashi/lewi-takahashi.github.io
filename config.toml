@@ -1,4 +1,4 @@
-baseURL = 'https://buchh.org'
+baseURL = 'lewi-takahashi.github.io'
 enableGitInfo = true
 
 [markup.goldmark.renderer]
