@@ -1,5 +1,5 @@
 ---
-title: Winning Ugly: Mental Warfare in Tennis
+title: Winning Ugly Mental Warfare in Tennis
 author: Brad Gilbert
 date: 2016-06-16
 url: /reading/winning-ugly
