@@ -1,5 +1,5 @@
 ---
-title: Reflections on _If You Want To Get Better At Something_
+title: Reflections on If You Want To Get Better At Something
 date: 2025-11-20
 description: Finding Joy in Striving
 url: reflection1
